@@ -1,0 +1,395 @@
+{
+  "frames": {
+    "fx.cloud.1": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 420,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 420,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 420,
+        "h": 220
+      }
+    },
+    "fx.cloud.2": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 420,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 420,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 420,
+        "h": 220
+      }
+    },
+    "fx.cloud.3": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 420,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 420,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 420,
+        "h": 220
+      }
+    },
+    "fx.cloud.4": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 420,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 420,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 420,
+        "h": 220
+      }
+    },
+    "fx.cloud.5": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 420,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 420,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 420,
+        "h": 220
+      }
+    },
+    "fx.smoke": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 256
+      }
+    },
+    "fx.firefly": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      }
+    },
+    "fx.leaf_wish": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 110
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 110
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 110
+      }
+    },
+    "fx.lotus_bloom": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 160
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 160
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 160
+      }
+    },
+    "fx.book_glow": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 240,
+        "h": 180
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 240,
+        "h": 180
+      },
+      "sourceSize": {
+        "w": 240,
+        "h": 180
+      }
+    },
+    "fx.well_water": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 220,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 220,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 220,
+        "h": 220
+      }
+    },
+    "fx.cottage": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 320,
+        "h": 240
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 320,
+        "h": 240
+      },
+      "sourceSize": {
+        "w": 320,
+        "h": 240
+      }
+    },
+    "fx.sparrow_pair": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 180,
+        "h": 120
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 180,
+        "h": 120
+      },
+      "sourceSize": {
+        "w": 180,
+        "h": 120
+      }
+    },
+    "fx.rice_wave": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 480,
+        "h": 180
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 480,
+        "h": 180
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 180
+      }
+    },
+    "fx.petal.1": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 40,
+        "h": 30
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 40,
+        "h": 30
+      },
+      "sourceSize": {
+        "w": 40,
+        "h": 30
+      }
+    },
+    "fx.petal.2": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 40,
+        "h": 30
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 40,
+        "h": 30
+      },
+      "sourceSize": {
+        "w": 40,
+        "h": 30
+      }
+    },
+    "fx.petal.3": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 40,
+        "h": 30
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 40,
+        "h": 30
+      },
+      "sourceSize": {
+        "w": 40,
+        "h": 30
+      }
+    },
+    "fx.petal.4": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 40,
+        "h": 30
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 40,
+        "h": 30
+      },
+      "sourceSize": {
+        "w": 40,
+        "h": 30
+      }
+    },
+    "fx.moon": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 512,
+        "h": 512
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 600,
+        "h": 600
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 600
+      }
+    }
+  },
+  "meta": {
+    "app": "but-oi-live-packer",
+    "version": "1.0",
+    "image": "fx.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 512,
+      "h": 512
+    },
+    "scale": "1"
+  }
+}
